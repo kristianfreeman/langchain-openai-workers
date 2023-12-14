@@ -1,0 +1,6 @@
+name = "langchain-openai-workers"
+main = "src/worker.js"
+compatibility_date = "2023-12-14"
+
+[vars]
+GATEWAY_URL = "https://gateway.ai.cloudflare.com/v1/123/example/openai"
